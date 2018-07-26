@@ -1,5 +1,4 @@
 app/code/community/Adyen/Payment    app/code/community/Adyen/Payment
-app/code/community/Adyen/Fee        app/code/community/Adyen/Fee
 app/etc/modules/Adyen_Payment.xml   app/etc/modules/Adyen_Payment.xml
 
 app/design/frontend/base/default/template/adyen             app/design/frontend/base/default/template/adyen
